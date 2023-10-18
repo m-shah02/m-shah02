@@ -2,9 +2,9 @@
   <h1> Hi there, I'm Mansoor 👋</h1>
   
   <h2> About me!</h2>
-  <p> 📚 I'm a 21 year old final year student at Aston University studying Computer Science. </p>
+  <p> 📚 I'm a 21-year-old final year student at Aston University studying Computer Science. </p>
   <p> 👨‍💼 I am also working as a Software Developer for HESA </p>
-  <p> 👨‍💻 I work on several projects involving use of Java, C# (.NET), Unity, Python and Full stack Web-development (HTML, CSS, JS, PHP, (my)SQL), among others</p>
+  <p> 👨‍💻 I work on several projects involving the use of Java, C# (.NET), Unity, Python and Full stack web development (HTML, CSS, JS, PHP, (my)SQL), among others</p>
   <p> 💡 I enjoy working on programming projects and hope to share more of my ideas on this platform...</p>
   <p> 🌱 Currently working on - Calibr8: A Camera Calibration in Human Tracking system</p>
   
@@ -41,14 +41,9 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-shah02&layout=compact&theme=vision-friendly-dark)]
   
   <h2> My contacts...</h2>
-  <div id = "badges">
-    <a href = "https://www.linkedin.com/in/mansoor-shah-20a282225/">
-      <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-    </a>
-    <a href = mailto: "mansoorshah488@gmail.com">
-      <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-  </div>
+    
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mansoor-shah-20a282225)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansoorshah488@gmail.com)
   <br>
   
   <div id="footer" align = "center">
