@@ -6,7 +6,7 @@
   <p> 👨‍💼 I am also working as a Software Developer for HESA </p>
   <p> 👨‍💻 I work on several projects involving the use of Java, C# (.NET), Unity, Python and Full stack web development (HTML, CSS, JS, PHP, (my)SQL), among others</p>
   <p> 💡 I enjoy working on programming projects and hope to share more of my ideas on this platform...</p>
-  <p> 🌱 Currently working on - Calibr8: A Camera Calibration in Human Tracking system</p>
+  <p> 🌱 Currently working on - Calibr8: A Camera Calibration in Human Tracking system, A Word Counter with SSL/TLS used as a secure client-server distributed application </p>
   
   <h2>Languages & Tools</h2>
   <div id="tech-icons">
