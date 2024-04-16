@@ -6,7 +6,10 @@
   <p> 👨‍💼 I am also working as a Software Developer for HESA </p>
   <p> 👨‍💻 I work on several projects involving the use of Java, C# (.NET), Unity, Python and Full stack web development (HTML, CSS, JS, PHP, (my)SQL), among others</p>
   <p> 💡 I enjoy working on programming projects and hope to share more of my ideas on this platform...</p>
-  <p> 🌱 Currently working on - Calibr8: A Camera Calibration in Human Tracking system </p>
+  <p> 🌱 Currently working on: <br>
+    - <strong> Calibr8: A Camera Calibration in Human Tracking System. </strong>  <br> 
+    - <strong> Ammo Arena: A First Person Zombie survival shooter developed in Unity </strong> <br> 
+    - <strong> Computer Animation Project in Blender using a Futuristic setting... </strong> <br> </p>
   
   <h2>Languages & Tools</h2>
   <div id="tech-icons">
@@ -38,7 +41,7 @@
   
   [![m-shah02's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-shah02&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-shah02&layout=compact&theme=vision-friendly-dark)]
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-shah02&layout=compact&theme=vision-friendly-dark)
   
   <h2> My contacts...</h2>
     
