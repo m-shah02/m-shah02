@@ -45,7 +45,7 @@
   
   <h2> My contacts...</h2>
     
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mansoor-shah-20a282225)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mansoor-s-20a282225/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansoorshah488@gmail.com)
   <br>
   
